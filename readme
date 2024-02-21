@@ -1,0 +1,5 @@
+Run docker
+ docker run -p 3001:3001 banking-application
+
+Run Node 
+ node index.js
